@@ -78,23 +78,16 @@ const ashir = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-tariq&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 > *My best work — built with care, shipped with pride.*
-
-| 🔥 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|---|---|---|---|
-| **Project 1** | Short description of what it does | React, Node, MongoDB | [Live Demo](#) |
-| **Project 2** | Short description of what it does | React, Express, MongoDB | [Live Demo](#) |
-| **Project 3** | Short description of what it does | Node.js, REST API | [Repo](#) |
+| **Paylance App** | Freelance payment platform | React, Node, MongoDB | [Repo](https://github.com/Ashir-tariq/Paylance-app) |
+| **kitechx_website** | Full stack MERN version | MERN Stack | [Repo](https://github.com/Ashir-tariq/kitechx_frontend) |
+| **Apple Clone** | Apple website clone | JavaScript, CSS | [Repo](https://github.com/Ashir-tariq/Apple-Clone) |
 
 > 💡 *Replace the above with your actual projects!*
 
@@ -113,8 +106,8 @@ const ashir = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ashir--tariq-181717?style=for-the-badge&logo=github)](https://github.com/Ashir-tariq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Ashir-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Ashir-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ashir-b6b81234b/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashirtariq06@gmail.com)
 
 </div>
 
